@@ -1,0 +1,33 @@
+h1{
+   font-family: "Bangers", system-ui;
+}
+body{
+    background-color: #DBFFCB;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.dice{
+    display: inline-block;
+    width: 45%;
+    
+    
+}
+.shake{
+    animation: shake 0.3s ease;
+
+
+}
+.img{
+    width: 50%;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+h2{
+    font-family: "Caveat", cursive;
+}
