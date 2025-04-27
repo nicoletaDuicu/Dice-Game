@@ -1,5 +1,4 @@
 
-//alert("Welcome to the Dice Game! Press any key to roll the dice.");
 
 let scor1=0;
 let scor2=0;
