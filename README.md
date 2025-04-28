@@ -2,9 +2,13 @@ This is an interactive web-based Dice Game where two players roll a die by press
 
 Features:
   *Roll the dice for two players by pressing any key
+  
   *Randomly display dice faces (from 1 to 6)
+  
   *Announce the winner or a draw after each roll
+  
   *Smooth gameplay without needing to refresh the page
+  
   *DOM manipulation to update the dice dynamically
 
 Demo:
